@@ -6,3 +6,23 @@ h1 {
 body {
   background-color: #FDFFCD
 }
+nav {
+  list-style-type: none;
+  background-color: #FAE997;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+li a {
+  text-decoration: none;
+  color: #836795;
+  display: block;
+  float: left;
+  padding: 15px 50px;
+}
+
+li a:hover {
+  background-color: #F5DCE9;
+  color: #836795;
+}
