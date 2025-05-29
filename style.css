@@ -2,6 +2,15 @@ h1 {
   color: #836795;
   text-decoration: overline underline 5px #CEBACF;
 }
+h1:hover {
+  color: #A800A8;
+  text-decoration: overline underline dotted 10px #D4AAFF;
+  
+}
+img:hover {
+  width: 500px;
+  height: 500px;
+}
 
 body {
   background-color: #FDFFCD
@@ -26,3 +35,4 @@ li a:hover {
   background-color: #F5DCE9;
   color: #836795;
 }
+
